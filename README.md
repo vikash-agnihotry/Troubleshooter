@@ -1,5 +1,5 @@
 
-The Troubleshooter.py file is a Python-based program designed to troubleshoot and maintain a Windows system. Here is a summary of its key features:
+The Troubleshooter.exe file is a Python-based program designed to troubleshoot and maintain a Windows system. Here is a summary of its key features:
 
 
 1. System Cleanup:
