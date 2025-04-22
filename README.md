@@ -31,5 +31,7 @@ Displays detailed system information, including processor, RAM, storage, and GPU
 6. Graphical User Interface (GUI):
 
 Uses tkinter to create a user-friendly interface with buttons grouped into sections for performing the above tasks.
+
 Also includes a transparency adjustment slider for customizing the GUI appearance.
+
 This program provides a comprehensive toolkit for Windows troubleshooting and maintenance through a simple and interactive GUI.
